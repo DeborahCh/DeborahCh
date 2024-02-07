@@ -2,7 +2,7 @@
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me use the email chisenhgadeborah72@gmail.com
+- 📫 How to reach me use the email chisengadeborah72@gmail.com
 
 
 <!---
